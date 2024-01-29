@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SqlViewer", "SqlViewer\SqlViewer.csproj", "{25825F6B-D787-4607-B962-01815442A1A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonManager", "PersonManager\PersonManager.csproj", "{029E5234-850F-4568-9B89-B069ED5CDB1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{25825F6B-D787-4607-B962-01815442A1A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25825F6B-D787-4607-B962-01815442A1A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25825F6B-D787-4607-B962-01815442A1A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25825F6B-D787-4607-B962-01815442A1A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{029E5234-850F-4568-9B89-B069ED5CDB1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{029E5234-850F-4568-9B89-B069ED5CDB1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{029E5234-850F-4568-9B89-B069ED5CDB1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{029E5234-850F-4568-9B89-B069ED5CDB1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BCC26AF4-9304-4C6D-8F82-D907893EAE87}
+	EndGlobalSection
+EndGlobal
